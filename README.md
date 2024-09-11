@@ -14,6 +14,7 @@ And what's the better time when you've moved to another country with new sets of
 
 #### Others
 - [Airtable Wiz](https://airtablewiz.com)
+- [No Code Asia](https://nocodeasia.leifjerami.com)
   
 <!--
 **fishingelephants/fishingelephants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
