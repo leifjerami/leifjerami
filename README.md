@@ -17,7 +17,7 @@ And what's the better time when you've moved to another country with new sets of
 
 - [Airtable Wiz](https://airtablewiz.com)
 - [No Code Asia](https://nocodeasia.leifjerami.com)
-- [Bunni AI](https://bunni.ai) - Collaboration
+- [Bunni AI - Collab](https://bunni.ai)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fishingelephants&theme=tokyonight-duo)](https://git.io/streak-stats)
 
