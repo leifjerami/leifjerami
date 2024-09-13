@@ -18,7 +18,7 @@ And what's the better time when you've moved to another country with new sets of
 - [Airtable Wiz](https://airtablewiz.com)
 - [No Code Asia](https://nocodeasia.leifjerami.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fishingelephants)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fishingelephants&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <!--
 **fishingelephants/fishingelephants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
