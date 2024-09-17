@@ -1,10 +1,10 @@
 ## Hello World🖖
 
-I just got back to coding. Never been a real coder or developer before, just hobbyist.
+I just got back into coding after a long break. Never considered myself a real coder or developer before — more of a hobbyist, exploring things here and there.
 
-But the recent frustration with no-code and _ahem_ coder(s) as CTO, makes me to give coding another go.
+But after some frustrations with no-code tools and, well, dealing with difficult, ahem c0d**s, I decided it's time to give coding another try.
 
-And what's the better time when you've moved to another country with new sets of work piling up to start.
+What's a better time to dive in than now? I've recently moved to another country, and with new projects piling up, it's the perfect moment to get serious about building things — with codes!
 
 ### 2024 projects
 
