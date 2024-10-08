@@ -8,7 +8,7 @@ What's a better time to dive in than now? I've recently moved to another country
 
 ### 2024 projects
 
-- [Fractional CTO / CTO-as-a-Service](https://leifjerami.com)
+- [Fractional CTO-as-a-Service](https://leifjerami.com)
 - [Grains by Leif](https://grains.leifjerami.comi)
 
 #### StarterKits/Templates
