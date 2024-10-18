@@ -22,7 +22,7 @@ What's a better time to dive in than now? I've recently moved to another country
 - [No Code Asia](https://nocodeasia.leifjerami.com)
 - [Bunni AI - Collab](https://bunni.ai)
 
-[![GitHub Streak](https://fe-github-streaks.vercel.app?user=fishingelephants&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://fe-github-streaks.vercel.app?user=fishingelephants&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **fishingelephants/fishingelephants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
