@@ -16,6 +16,7 @@ What's a better time to dive in than now? I've recently moved to another country
 - [Biolink Kit](https://grains.leifjerami.com/post/biolink-clone/)
 - [Frieren Blog Kit](https://grains.leifjerami.com/post/frieren-blog-kit/)
 - [Fractional Partner Kit - Coming Soon!](https://grains.leifjerami.com)
+- [$PricingKITT - Coming Soon!](https://grains.leifjerami.com)
 
 #### Others
 
