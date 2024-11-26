@@ -9,12 +9,13 @@ What's a better time to dive in than now? I've recently moved to another country
 ### 2024 projects
 
 - [Fractional CTO-as-a-Service](https://leifjerami.com)
-- [Grains by Leif](https://grains.leifjerami.comi)
+- [Grains by Leif](https://grains.leifjerami.com)
 
 #### StarterKits/Templates
 
 - [Biolink Kit](https://grains.leifjerami.com/post/biolink-clone/)
 - [Frieren Blog Kit](https://grains.leifjerami.com/post/frieren-blog-kit/)
+- [Fractional Partner Kit - Coming Soon!](https://grains.leifjerami.com)
 
 #### Others
 
